@@ -1,6 +1,7 @@
 # 目錄
 
 * [序言](README.md)
+* [學習材料](aws/learn.md)
 * [AWS, Amazon Web Services](aws/README.md)
     * [核心服務](aws/core/README.md)
     	*  [IAM](aws/core/iam/README.md)
