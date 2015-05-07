@@ -1,9 +1,6 @@
 # 目錄
 
 * [序言](README.md)
-* [授權與免責條款](LICENSE.md)
-* [作者](AUTHORS.md)
-* [AWS 背景](aws/background.md)
 * [AWS, Amazon Web Services](aws/README.md)
     * [核心服務](aws/core/README.md)
     	*  [IAM](aws/core/iam/README.md)

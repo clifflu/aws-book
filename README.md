@@ -6,3 +6,14 @@ AWS 技術日新月異，並且服務領域廣泛，因此本書內容難免過�
 
 本書範例主要以 Python/boto 撰寫，建議讀者可以先事學習，以增進對本書內容的理解。
 
+## 授權
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本著作由<a rel="cc:attributionURL" href="http://blog.clifflu.net" xmlns:cc="http://creativecommons.org/ns#"  property="cc:attributionName">Cliff Chao-kuan Lu</a>製作，其原創部分以<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">創用CC 姓名標示-相同方式分享 4.0 國際 授權條款</a>釋出。
+
+**本書或提及其他公司商標、文件、或螢幕截圖，其著作權歸原公司所有。**
+
+## 作者列表
+
+### Cliff Chao-kuan Lu
+
+Cliff Lu （呂昭寬) 為 AWS 認證之 Professional Level Solutions Architect 與 Associate Level SysOps。他自 2009 年起使用 AWS，目前服務於趨勢科技全球資訊服務部 （Trend Micro DCS）。
