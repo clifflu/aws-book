@@ -22,5 +22,6 @@
     * [HA, Scalability, and Elasticity](architecture/hase.md)
     * [服務移入](architecture/migrate-in.md)
 * [AWS 實戰範例](cases/README.md)
+    * [IAM 常見 Pattern](aws/core/iam/patterns.md)
 * [協作](CONTRIBUTE.md)
     

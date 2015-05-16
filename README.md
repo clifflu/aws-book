@@ -1,3 +1,7 @@
+# Work In Progress
+
+This is a work in progress, written in Traditional Chinese.
+
 # 序言
 
 使用 AWS 這幾年來，深感中文資源的缺乏；雖說 Hank Lin 在 2011 年初出版了*AWS 雲端企業實戰聖經*一書，然而 AWS 這些年來提供許多新功能，某些舊有 Pattern 也不再被推薦。因而我希望拋磚引玉，整理自己的實戰心得，讓有意學習 AWS 的新用家能少走些冤枉路。
